@@ -1,5 +1,6 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="825" alt="Screenshot 2023-08-01 at 3 20 40 PM" src="https://github.com/ahmed-eldin/js-fish-game/assets/111728755/b3439556-d858-4bf6-a928-5c86966c0da6">
+
 
 
 # JavaScript Fish Game
